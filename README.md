@@ -3,6 +3,7 @@
 ## Prérequis
 
 Installer Vagrant: [download](https://www.vagrantup.com/downloads)
+
 Installer Virtualbox: [download](https://www.virtualbox.org/wiki/Downloads)
 
 Note: En cas d'échec sur Virtualbox mac, autoriser "Oracle" dans "Sécurité et Confidentialité" puis réessayer.
