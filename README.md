@@ -38,7 +38,7 @@ vagrant suspend
 
 ## Plan d'atelier
 
-Reprise de VMs
+Reprise des VMs
 
 ```console
 vagrant resume
