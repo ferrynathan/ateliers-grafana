@@ -36,6 +36,12 @@ Suspendre les VMs
 vagrant suspend
 ```
 
+## Diagrammes du labo
+
+### Réseau
+
+![réseau](https://i.imgur.com/e0TLptU.png)
+
 ## Plan d'atelier
 
 Reprise des VMs
