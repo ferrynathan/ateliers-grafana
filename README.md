@@ -38,7 +38,7 @@ vagrant suspend
 
 ## Diagrammes du lab
 
-![archi]https://i.imgur.com/uVA3dKx.png)
+![archi](https://i.imgur.com/uVA3dKx.png)
 ![réseau](https://i.imgur.com/e0TLptU.png)
 
 ## Plan d'atelier
