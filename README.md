@@ -1,6 +1,6 @@
 # Atelier Grafana
 
-## Prérequis
+## Prérequis du lab
 
 Installer Vagrant: [download](https://www.vagrantup.com/downloads)
 Installer Virtualbox: [download](https://www.virtualbox.org/wiki/Downloads)
@@ -36,7 +36,7 @@ Suspendre les VMs
 vagrant suspend
 ```
 
-## Diagrammes du labo
+## Diagrammes du lab
 
 ### Réseau
 
