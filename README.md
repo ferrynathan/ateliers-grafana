@@ -15,20 +15,33 @@ vagrant ssh
 vagrant destroy
 ```
 Cloner le dépôt de l'atelier:
-
 ```console
 git clone https://github.com/ferrynathan/ateliers-grafana.git
 cd ateliers-grafana
-
 ```
 Lancer les 3 VMs et s'y connecter dans 3 shells différents
-
 ```console
 vagrant up
 vagrant status
 vagrant ssh grafana
 vagrant ssh client1
 vagrant ssh client2
+```
+
+Vérifier l'accès à la console Grafana http://localhost:3000
+
+Suspendre les VMs
+
+```console
+vagrant suspend
+```
+
+## Plan d'atelier
+
+Reprise de VMs
+
+```console
+vagrant resume
 ```
 
 
